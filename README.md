@@ -12,4 +12,7 @@ The system has two categories of users:
 The Web application in Vue is be used by both buyers and sellers, meanwhile the Android one is used only buyers (from the assignment).
 This project doesn't contain working with external databases, all of the data is built in.
 
+Android.zip contains the Android application project for Android Studio.
+Vue.zip contains the Vue implemented Web application, made within VSCodium.
+
 
